@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript">
+            const zoomin = function(x) {
+                x.style.color = "red";
+            }
+
+            const zoomOut = function(x) {
+                x.style.color = "black";
+            }
+        </script>
+        <style type="text/css">
+            p {
+                width: 100px;
+            }
+        </style>
+    </head>
+    <body>
+        <br><br><br>
+        <p onmouseover="zoomin(this)" onmouseout="zoomOut(this)">Dekatkan Mouse</p><br><br><br>
+    </body>
+</html>
