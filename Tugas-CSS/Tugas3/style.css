@@ -1,0 +1,24 @@
+p.p_pertama {
+    background-color: orange;  
+    font-size: 12px; 
+}
+
+p.p_kedua {
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+p.p_ketiga {
+    font-family: monospace;
+    font-size: 16px;
+    border: solid 1px;
+}
+
+p.p_keempat {
+    background-color: silver;
+    font-weight: 600;
+    font-size: 14px;
+}
+

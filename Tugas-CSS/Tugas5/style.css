@@ -1,0 +1,25 @@
+.div_menu {
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.menu {
+    color: white;
+    text-transform: uppercase;
+    font-family: "times new roman";
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+    font-size: 12px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'times new roman';
+    font-weight: bold;
+}
+

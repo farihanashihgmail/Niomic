@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+.box {
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    height: 40px;
+    width: 230px;
+}
+
+.box1 {
+    order: 1;
+    background-color: cyan;
+}
+
+.box2 {
+    order: 2;
+    background-color: forestgreen;
+}
+
+.box3 {
+    order: 2;
+    background-color: lightseagreen;
+}
+
+.box4 {
+    order: 2;
+    background-color: purple;
+}
+
+.box5 {
+    order: 3;
+    background-color: dimgray;
+}
+
+.box6 {
+    order: -1;
+    background-color: gold;
+}
+
+.box7 {
+    order: 1;
+    background-color: goldenrod;
+}
+
+.box8 {
+    background-color: red;
+}
+
+.box9 {
+    background-color: gray;
+}
+
+.box10 {
+    background-color: darkgray;
+}

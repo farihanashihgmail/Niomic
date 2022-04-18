@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: lightgray;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.containerD {
+    background-color: lightgray;
+    height: 100px;
+    padding-top: 30px;
+    width: 70px;
+}
+
+.containerH {
+    background-color: lightgray;
+    height: 100px;
+    padding-top: 30px;
+    width: 70px;
+}
+
+.containerL {
+    background-color: lightgray;
+    height: 100px;
+    padding-top: 30px;
+    width: 70px;
+}
+
+.containerP {
+    background-color: lightgray;
+    height: 100px;
+    padding-top: 30px;
+    width: 70px;
+}
+
+.box {
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    height: 40px;
+    width: 170px;
+}
+
+.boxD {
+    width: 70px;
+    background-color: purple;
+}
+
+.boxH {
+    width: 70px;
+    background-color: red;
+}
+
+.boxL {
+    width: 70px;
+    background-color: forestgreen;
+}
+
+.boxP {
+    width: 70px;
+    background-color: gold;
+}
+
+.box1 {
+    background-color: cyan;
+}
+
+.box2 {
+    background-color: forestgreen;
+}
+
+.box3 {
+    background-color: lightseagreen;
+}
+
+.box4 {
+    background-color: purple;
+}
+
+.box5 {
+    background-color: dimgray;
+}
+
+.box6 {
+    background-color: gold;
+}
+
+.box7 {
+    background-color: goldenrod;
+}
+
+.box8 {
+    background-color: red;
+}
+
+.box9 {
+    background-color: gray;
+}
+
+.box10 {
+    background-color: darkgray;
+}
